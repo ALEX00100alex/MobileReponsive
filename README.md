@@ -1,2 +1,2 @@
 # MobileResponsive
-Creating a mobile response portfolio site
+Creating a mobile responsive portfolio site
