@@ -5,7 +5,7 @@ body {
 .navbar-brand {
     background-color: lightgreen
 }
-.card {
+form {
     margin-top: 100px
 }   
 .card-header {
@@ -14,12 +14,15 @@ body {
     color: rgb(54, 199, 151); 
     background-color: white;
 }
-.card-body {
+.form-group {
     background-color: white
-}  
-.float-left {
-    padding-right: 10px;
-}
-.card-text {
-    text-overflow: ellipsis;
+}              
+.btn-primary {
+    margin-top: 30px; 
+    margin-bottom: 50px; 
+    margin-left: 25px; 
+    height: 75px; 
+    width: 150px; 
+    border:rgb(54, 199, 151); 
+    background-color: rgb(54, 199, 151);
 }
