@@ -5,14 +5,9 @@ body {
 .navbar-brand {
     background-color: lightgreen
 }
-.row-4 {
-    margin-top: 20px;
-}
-.row-5 {
-    margin-top: 20px;
-}
-.img {
-    height: 350px; width: 350px
+
+.img-responsive {
+    margin: 10px;
 }
 .card {
     margin-top: 100px
