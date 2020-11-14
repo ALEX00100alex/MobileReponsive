@@ -1,14 +1,17 @@
 
+/* Background image for website */
 body { 
     background-image: url(https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) 
 }
+/* Navigation bar styling */
 .navbar-brand {
     background-color: lightgreen
 }
-
+/* Ensuring the correct spacing between images */
 .img-responsive {
     margin: 10px;
 }
+/* Adding margins and styling features to the "Portfolio" card */
 .card {
     margin-top: 100px
 }   
@@ -21,9 +24,3 @@ body {
 .card-body {
     background-color: white
 }  
-.float-left {
-    padding-right: 10px;
-}
-.card-text {
-    text-overflow: ellipsis;
-}

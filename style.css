@@ -1,10 +1,13 @@
 
+/* Background image for website */
 body { 
     background-image: url(https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) 
 }
+/* Navigation bar styling */
 .navbar-brand {
     background-color: lightgreen
 }
+/* Adding margins and styling features to the "About Me" card */
 .card {
     margin-top: 100px
 }   
@@ -17,6 +20,7 @@ body {
 .card-body {
     background-color: white
 }  
+/* Ensuring thumbnail is in the right position and the text wraps around the image */
 .float-left {
     padding-right: 10px;
 }
